@@ -5125,3 +5125,8 @@ a img {
     margin: 0;
     color: #fff
 }
+
+.experience {
+    text-align: justify;
+    font-size: 1.1em;
+}
